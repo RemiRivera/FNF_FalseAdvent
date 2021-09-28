@@ -7,8 +7,8 @@ import flixel.util.FlxTimer;
  * ...
  * @author bbpanzu
  //thank u bbpanzu, bless -carrot
-*
-* The code in this file is from ArtCarrot's Github, and the file there has the same name and layout as this one. Here is the link to that: https://github.com/ArtCarrot/VSPompom/tree/main/source -Remi Rivera
+ *
+ * The code in this file is from ArtCarrot's Github, and the file there has the same name and layout as this one. Here is the link to that: https://github.com/ArtCarrot/VSPompom/tree/main/source -Remi Rivera
  */
 class EndingState extends FlxState
 {
