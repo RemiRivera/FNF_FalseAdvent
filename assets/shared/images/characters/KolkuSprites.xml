@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="KolkuSprites.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Kolku Down0000" x="0" y="0" width="362" height="858" frameX="0" frameY="-16" frameWidth="362" frameHeight="875"/>
+	<SubTexture name="Kolku Down0001" x="0" y="0" width="362" height="858" frameX="0" frameY="-16" frameWidth="362" frameHeight="875"/>
+	<SubTexture name="Kolku Down0002" x="362" y="0" width="362" height="875"/>
+	<SubTexture name="Kolku Down0003" x="362" y="0" width="362" height="875"/>
+	<SubTexture name="Kolku Down0004" x="724" y="0" width="362" height="875"/>
+	<SubTexture name="Kolku Down0005" x="724" y="0" width="362" height="875"/>
+	<SubTexture name="Kolku Down0006" x="724" y="0" width="362" height="875"/>
+	<SubTexture name="Kolku Down0007" x="724" y="0" width="362" height="875"/>
+	<SubTexture name="Kolku Down0008" x="724" y="0" width="362" height="875"/>
+	<SubTexture name="Kolku Down0009" x="724" y="0" width="362" height="875"/>
+	<SubTexture name="Kolku Down0010" x="724" y="0" width="362" height="875"/>
+	<SubTexture name="Kolku Down0011" x="724" y="0" width="362" height="875"/>
+	<SubTexture name="Kolku Down0012" x="724" y="0" width="362" height="875"/>
+	<SubTexture name="Kolku Down0013" x="724" y="0" width="362" height="875"/>
+	<SubTexture name="Kolku Down0014" x="724" y="0" width="362" height="875"/>
+	<SubTexture name="Kolku Idle0000" x="1086" y="0" width="412" height="885" frameX="-1" frameY="-12" frameWidth="416" frameHeight="897"/>
+	<SubTexture name="Kolku Idle0001" x="1086" y="0" width="412" height="885" frameX="-1" frameY="-12" frameWidth="416" frameHeight="897"/>
+	<SubTexture name="Kolku Idle0002" x="1498" y="0" width="413" height="890" frameX="-1" frameY="-7" frameWidth="416" frameHeight="897"/>
+	<SubTexture name="Kolku Idle0003" x="1498" y="0" width="413" height="890" frameX="-1" frameY="-7" frameWidth="416" frameHeight="897"/>
+	<SubTexture name="Kolku Idle0004" x="1911" y="0" width="415" height="892" frameX="-1" frameY="-5" frameWidth="416" frameHeight="897"/>
+	<SubTexture name="Kolku Idle0005" x="1911" y="0" width="415" height="892" frameX="-1" frameY="-5" frameWidth="416" frameHeight="897"/>
+	<SubTexture name="Kolku Idle0006" x="2326" y="0" width="413" height="897" frameX="-1" frameY="0" frameWidth="416" frameHeight="897"/>
+	<SubTexture name="Kolku Idle0007" x="2326" y="0" width="413" height="897" frameX="-1" frameY="0" frameWidth="416" frameHeight="897"/>
+	<SubTexture name="Kolku Idle0008" x="2739" y="0" width="413" height="894" frameX="0" frameY="-3" frameWidth="416" frameHeight="897"/>
+	<SubTexture name="Kolku Idle0009" x="2739" y="0" width="413" height="894" frameX="0" frameY="-3" frameWidth="416" frameHeight="897"/>
+	<SubTexture name="Kolku Idle0010" x="2739" y="0" width="413" height="894" frameX="0" frameY="-3" frameWidth="416" frameHeight="897"/>
+	<SubTexture name="Kolku Idle0011" x="2739" y="0" width="413" height="894" frameX="0" frameY="-3" frameWidth="416" frameHeight="897"/>
+	<SubTexture name="Kolku Idle0012" x="2739" y="0" width="413" height="894" frameX="0" frameY="-3" frameWidth="416" frameHeight="897"/>
+	<SubTexture name="Kolku Idle0013" x="3152" y="0" width="413" height="894" frameX="0" frameY="-3" frameWidth="416" frameHeight="897"/>
+	<SubTexture name="Kolku Idle0014" x="3565" y="0" width="413" height="894" frameX="0" frameY="-3" frameWidth="416" frameHeight="897"/>
+	<SubTexture name="Kolku Left0000" x="0" y="897" width="385" height="886" frameX="-8" frameY="-1" frameWidth="394" frameHeight="887"/>
+	<SubTexture name="Kolku Left0001" x="385" y="897" width="389" height="886" frameX="-4" frameY="-1" frameWidth="394" frameHeight="887"/>
+	<SubTexture name="Kolku Left0002" x="774" y="897" width="385" height="886" frameX="-8" frameY="-1" frameWidth="394" frameHeight="887"/>
+	<SubTexture name="Kolku Left0003" x="1159" y="897" width="389" height="886" frameX="-4" frameY="-1" frameWidth="394" frameHeight="887"/>
+	<SubTexture name="Kolku Left0004" x="1548" y="897" width="394" height="887"/>
+	<SubTexture name="Kolku Left0005" x="1548" y="897" width="394" height="887"/>
+	<SubTexture name="Kolku Left0006" x="1548" y="897" width="394" height="887"/>
+	<SubTexture name="Kolku Left0007" x="1548" y="897" width="394" height="887"/>
+	<SubTexture name="Kolku Left0008" x="1548" y="897" width="394" height="887"/>
+	<SubTexture name="Kolku Left0009" x="1548" y="897" width="394" height="887"/>
+	<SubTexture name="Kolku Left0010" x="1548" y="897" width="394" height="887"/>
+	<SubTexture name="Kolku Left0011" x="1548" y="897" width="394" height="887"/>
+	<SubTexture name="Kolku Left0012" x="1548" y="897" width="394" height="887"/>
+	<SubTexture name="Kolku Left0013" x="1548" y="897" width="394" height="887"/>
+	<SubTexture name="Kolku Right0000" x="1942" y="897" width="367" height="890" frameX="0" frameY="-2" frameWidth="367" frameHeight="892"/>
+	<SubTexture name="Kolku Right0001" x="1942" y="897" width="367" height="890" frameX="0" frameY="-2" frameWidth="367" frameHeight="892"/>
+	<SubTexture name="Kolku Right0002" x="2309" y="897" width="364" height="892" frameX="0" frameY="0" frameWidth="367" frameHeight="892"/>
+	<SubTexture name="Kolku Right0003" x="2673" y="897" width="364" height="892" frameX="0" frameY="0" frameWidth="367" frameHeight="892"/>
+	<SubTexture name="Kolku Right0004" x="3037" y="897" width="364" height="892" frameX="0" frameY="0" frameWidth="367" frameHeight="892"/>
+	<SubTexture name="Kolku Right0005" x="3037" y="897" width="364" height="892" frameX="0" frameY="0" frameWidth="367" frameHeight="892"/>
+	<SubTexture name="Kolku Right0006" x="3037" y="897" width="364" height="892" frameX="0" frameY="0" frameWidth="367" frameHeight="892"/>
+	<SubTexture name="Kolku Right0007" x="3037" y="897" width="364" height="892" frameX="0" frameY="0" frameWidth="367" frameHeight="892"/>
+	<SubTexture name="Kolku Right0008" x="3037" y="897" width="364" height="892" frameX="0" frameY="0" frameWidth="367" frameHeight="892"/>
+	<SubTexture name="Kolku Right0009" x="3037" y="897" width="364" height="892" frameX="0" frameY="0" frameWidth="367" frameHeight="892"/>
+	<SubTexture name="Kolku Right0010" x="3037" y="897" width="364" height="892" frameX="0" frameY="0" frameWidth="367" frameHeight="892"/>
+	<SubTexture name="Kolku Right0011" x="3037" y="897" width="364" height="892" frameX="0" frameY="0" frameWidth="367" frameHeight="892"/>
+	<SubTexture name="Kolku Right0012" x="3037" y="897" width="364" height="892" frameX="0" frameY="0" frameWidth="367" frameHeight="892"/>
+	<SubTexture name="Kolku Right0013" x="3037" y="897" width="364" height="892" frameX="0" frameY="0" frameWidth="367" frameHeight="892"/>
+	<SubTexture name="Kolku Right0014" x="3037" y="897" width="364" height="892" frameX="0" frameY="0" frameWidth="367" frameHeight="892"/>
+	<SubTexture name="Kolku Right0015" x="3037" y="897" width="364" height="892" frameX="0" frameY="0" frameWidth="367" frameHeight="892"/>
+	<SubTexture name="Kolku Up0000" x="3401" y="897" width="394" height="899"/>
+	<SubTexture name="Kolku Up0001" x="3401" y="897" width="394" height="899"/>
+	<SubTexture name="Kolku Up0002" x="0" y="1796" width="394" height="894" frameX="0" frameY="-4" frameWidth="394" frameHeight="899"/>
+	<SubTexture name="Kolku Up0003" x="394" y="1796" width="394" height="894" frameX="0" frameY="-4" frameWidth="394" frameHeight="899"/>
+	<SubTexture name="Kolku Up0004" x="788" y="1796" width="394" height="894" frameX="0" frameY="-4" frameWidth="394" frameHeight="899"/>
+	<SubTexture name="Kolku Up0005" x="788" y="1796" width="394" height="894" frameX="0" frameY="-4" frameWidth="394" frameHeight="899"/>
+	<SubTexture name="Kolku Up0006" x="788" y="1796" width="394" height="894" frameX="0" frameY="-4" frameWidth="394" frameHeight="899"/>
+	<SubTexture name="Kolku Up0007" x="788" y="1796" width="394" height="894" frameX="0" frameY="-4" frameWidth="394" frameHeight="899"/>
+	<SubTexture name="Kolku Up0008" x="788" y="1796" width="394" height="894" frameX="0" frameY="-4" frameWidth="394" frameHeight="899"/>
+	<SubTexture name="Kolku Up0009" x="788" y="1796" width="394" height="894" frameX="0" frameY="-4" frameWidth="394" frameHeight="899"/>
+	<SubTexture name="Kolku Up0010" x="788" y="1796" width="394" height="894" frameX="0" frameY="-4" frameWidth="394" frameHeight="899"/>
+	<SubTexture name="Kolku Up0011" x="788" y="1796" width="394" height="894" frameX="0" frameY="-4" frameWidth="394" frameHeight="899"/>
+	<SubTexture name="Kolku Up0012" x="788" y="1796" width="394" height="894" frameX="0" frameY="-4" frameWidth="394" frameHeight="899"/>
+	<SubTexture name="Kolku Up0013" x="788" y="1796" width="394" height="894" frameX="0" frameY="-4" frameWidth="394" frameHeight="899"/>
+	<SubTexture name="Kolku Up0014" x="788" y="1796" width="394" height="894" frameX="0" frameY="-4" frameWidth="394" frameHeight="899"/>
+</TextureAtlas>

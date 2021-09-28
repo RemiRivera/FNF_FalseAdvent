@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="eaterPortrait.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Eater Enter0000" x="0" y="0" width="526" height="524"/>
+	<SubTexture name="Eater Enter0001" x="0" y="0" width="526" height="524"/>
+	<SubTexture name="Eater Enter0002" x="526" y="0" width="526" height="524"/>
+	<SubTexture name="Eater Enter0003" x="526" y="0" width="526" height="524"/>
+	<SubTexture name="Eater Enter0004" x="1052" y="0" width="526" height="524"/>
+	<SubTexture name="Eater Enter0005" x="1052" y="0" width="526" height="524"/>
+	<SubTexture name="Eater Enter0006" x="1578" y="0" width="526" height="524"/>
+	<SubTexture name="Eater Enter0007" x="1578" y="0" width="526" height="524"/>
+</TextureAtlas>
